@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   title: "Kaveri — Women's Fashion",
   description: "Contemporary women's fashion rooted in timeless style.",
   icons: {
-    icon: "/logo.jpg",
+    icon: "/KV-logo.jpg",
   },
 };
 
